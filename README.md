@@ -1,2 +1,2 @@
-# Learning Javascript #
-A code repo for learning javascript.
+# Learning Javascript👨‍💻 #
+A code repo for learning javascript📚.
